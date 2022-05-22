@@ -1,16 +1,15 @@
-# portfolyo
+# Portfolyo
 
-A new Flutter project.
 
-## Getting Started
+Merhaba 👋,
+Kendi portfolyo sayfam için bir Flutter projesi oluşturdum.
 
-This project is a starting point for a Flutter application.
+Sizde 'all_data.dart' dosyasındaki verileri değiştererek bir portfolyo'ya sahip olabilirsiniz.
 
-A few resources to get you started if this is your first Flutter project:
+Portfolyo sayfam => https://mrasityilmaz.github.io/rasityilmaz.github.io/#/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="1440" alt="Ekran Resmi 2022-05-22 22 55 49" src="https://user-images.githubusercontent.com/81583706/169719979-b11f5ca0-5914-466f-ae17-e3c81f9e9341.png">
+<img width="1440" alt="Ekran Resmi 2022-05-22 22 56 14" src="https://user-images.githubusercontent.com/81583706/169719986-4d99ae3b-49e1-4c63-8c32-48644e623ec0.png">
+<img width="1440" alt="Ekran Resmi 2022-05-22 22 56 18" src="https://user-images.githubusercontent.com/81583706/169719987-c04228da-9b2c-400f-be66-a68dd50dd9ce.png">
